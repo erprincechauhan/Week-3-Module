@@ -36,12 +36,12 @@ All programs are implemented in **C++** without using built-in sorting functions
 
 ```
 .
-├── MergeSort_Easy.cpp
-├── MergeSort_Medium.cpp
-├── QuickSort_Easy.cpp
-├── QuickSort_Medium.cpp
-├── HeapSort_Easy.cpp
-├── HeapSort_Medium.cpp
+├── merge_sort.cpp
+├── mergesort_2.cpp
+├── quicksort.cpp
+├── quicksort_2.cpp
+├── heapsort.cpp
+├── heapsort_2.cpp
 ├── images
 │   ├── merge_sort.png
 │   ├── mergesort_2.png
