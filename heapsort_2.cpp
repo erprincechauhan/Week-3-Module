@@ -40,10 +40,12 @@ int main() {
     cin >> n;
 
     vector<int> arr(n);
+    double sum = 0;
     cout << "Enter the elements of vector: ";
 
     for (int i = 0; i < n; i++){
         cin >> arr[i];
+        sum += arr[i];
     }
     heapSort(arr, n);
 
